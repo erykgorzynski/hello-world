@@ -1,2 +1,2 @@
 # hello-world
-Im learning how to use github
+Hi im Eryk and github is very complicated
